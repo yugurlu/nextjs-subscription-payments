@@ -1,4 +1,4 @@
-# Next.js Subscription Platform with Discord Login and Stripe Integration
+# Next.js Subscription Platform with Discord OAuth and Stripe Integration
 
 This project is a subscription-based platform built with Next.js, allowing users to log in using Discord and subscribe to various plans using the Stripe API. The platform also handles data exchange through Stripe webhooks and stores users in MongoDB.
 
